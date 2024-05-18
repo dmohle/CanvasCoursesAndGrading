@@ -33,7 +33,7 @@ def get_canvas_courses(api_key, base_url):
 
 if __name__ == "__main__":
     # Replace 'YOUR_API_KEY' with your actual Canvas API key
-    API_KEY = "5496~XoQWTLaYBYTWCftRbSDQTK2sb7qMqXEfwP82zJcN3pwchr3ugpplBPHoUAWLRxex"
+    API_KEY = "secret API key goes here"
     # Replace 'YOUR_CANVAS_BASE_URL' with your Canvas instance URL, e.g., 'https://canvas.instructure.com'
     BASE_URL = "https://scccd.instructure.com"
 
